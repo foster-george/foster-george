@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi! 
+### My name is George Foster, and I am a computer science and math major at Northeastern University graduating in the Spring of 2027. 
+### Take a look around to check out some of the projects that I've done over the years!
+
+### Feel free to contact foster22george at Gmail if you have any questions or want to connect with me.
 
 <!--
 **foster-george/foster-george** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
